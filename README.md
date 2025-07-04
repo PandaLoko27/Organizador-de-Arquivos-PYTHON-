@@ -34,8 +34,7 @@ Você também pode definir suas próprias categorias e extensões ao iniciar o s
 1. Clone o repositório:
    ```bash
    git clone https://github.com/PandaLoko27/Organizador-de-Arquivos-PYTHON-.git
-   cd organizador-de-arquivos
-
+   cd Organizador-de-Arquivos-PYTHON-
 2. Execute o script:
 ```
    ```bash
@@ -61,10 +60,3 @@ Este projeto está licenciado sob a [MIT License](LICENSE).
 
 ## 💻 Autor
 Otávio Guedes - Estudante de Engenharia de Software | Desenvolvedor Back-end
-
-Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou pull request.
-
-```
-
-Se quiser, posso adaptar esse README com seu nome de usuário do GitHub, adicionar badges (como `Made with Python`, `License: MIT` etc.) ou um print de exemplo também. Deseja incluir alguma dessas coisas?
-```
